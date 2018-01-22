@@ -22,6 +22,6 @@
   "author": "Gabriel Grant <g@briel.ca>",
   "license": "ISC",
   "dependencies": {
-    "ws": "^2.2.0"
+    "ws": "^4.0.0"
   }
 }

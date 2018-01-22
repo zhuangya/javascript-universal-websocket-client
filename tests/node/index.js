@@ -3,7 +3,7 @@
 'use strict';
 
 
-var WebSocket = require('universal-websocket-client');
+var WebSocket = require('../../');
 
 var wsUri = "ws://echo.websocket.org/";
 var output;
